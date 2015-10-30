@@ -1,0 +1,6 @@
+framework module AeroGear_Crypto {
+  umbrella header "AeroGear-Crypto-umbrella.h"
+
+  export *
+  module * { export * }
+}

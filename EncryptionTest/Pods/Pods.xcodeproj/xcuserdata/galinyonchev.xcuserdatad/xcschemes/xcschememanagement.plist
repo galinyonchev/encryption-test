@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>AeroGear-Crypto.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>CryptoSwift.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>RNCryptor.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>libsodium-ios.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>476285C3B6497E574961DC88FBDE0150</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>53003C3F2B4D02EBC0DA3AA24D513056</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>62A91C19116A53EFFCC8FE1D8276CA3D</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>8A08057562C1FD1343AEC2D7851662F8</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>952FE1EB61CA49FEC151B1763B93E741</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>

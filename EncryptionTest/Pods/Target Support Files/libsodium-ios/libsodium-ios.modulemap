@@ -1,0 +1,6 @@
+framework module libsodium_ios {
+  umbrella header "libsodium-ios-umbrella.h"
+
+  export *
+  module * { export * }
+}

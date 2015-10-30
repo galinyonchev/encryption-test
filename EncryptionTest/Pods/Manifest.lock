@@ -1,0 +1,19 @@
+PODS:
+  - AeroGear-Crypto (0.2.3):
+    - libsodium-ios (~> 0.4.5)
+  - CryptoSwift (0.1.1)
+  - libsodium-ios (0.4.5)
+  - RNCryptor (4.0.0)
+
+DEPENDENCIES:
+  - AeroGear-Crypto (= 0.2.3)
+  - CryptoSwift
+  - RNCryptor (~> 4.0.0-beta)
+
+SPEC CHECKSUMS:
+  AeroGear-Crypto: d97389c7aa9b25360fecd5938f051ab9027d67cc
+  CryptoSwift: c11640d3d66107efc8333e4131a5173f072b1d61
+  libsodium-ios: c3fc6b66b8c67315710ae0dc4c95e496b4f18533
+  RNCryptor: 59d6483908115af5c12b884db23392024e52a5fe
+
+COCOAPODS: 0.39.0
